@@ -145,7 +145,7 @@ export default function FinalMessage() {
           className="text-lg text-pink-500"
           style={{ fontFamily: "'Dancing Script', cursive" }}
         >
-          Made with ❤️ just for you
+          Made with ❤️ just for my wifey
         </motion.p>
       </div>
     </section>
