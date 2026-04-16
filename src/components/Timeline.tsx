@@ -10,7 +10,7 @@ const milestones = [
   { date: 'April 2 2026', event: 'First time church with you(but i didnt see you)', icon: Star, color: 'from-green-400 to-teal-400' },
   { date: 'April 3 2026', event: 'Spend long night with you, noon gone to bhai and kissed your cheek', icon: Sparkles, color: 'from-blue-400 to-purple-400' },
   { date: 'April 5 2026', event: ' Church lo same bench and a cute lil pic', icon: Camera, color: 'from-yellow-400 to-green-400' },
-  { date: 'July 6 2026', event: 'First Movie together, RAAKASAA👹😂', icon: Camera, color: 'from-yellow-400 to-green-400' }
+  { date: 'July 6 2026', event: 'First Movie together, RAAKASAA👹😂', icon: Camera, color: 'from-yellow-400 to-green-400' },
   { date: 'July 7 2026', event: 'Said our first goodbyes with lots of memories', icon: Heart, color: 'from-pink-400 to-rose-400' }
 ];
 
