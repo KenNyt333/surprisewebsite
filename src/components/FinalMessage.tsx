@@ -66,7 +66,7 @@ export default function FinalMessage() {
         >
           I Love You More nd More
           <br />
-          Each Day Passing
+          Each Passing Day
         </motion.h2>
 
         <motion.p
