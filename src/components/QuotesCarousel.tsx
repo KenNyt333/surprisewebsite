@@ -4,11 +4,11 @@ import { Heart, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const quotes = [
   "She said - When the sun come out , the stars Disappear (she meant herself)",
-  "Magic of 2 years 6 months and 2 days",
+  "Magic of more than 12 , destined to be together",
   "I will steal your love , your heart and your soul and finally your wp stickers too ",
-  "Marry Me soon My kutty or I will kill you",
+  "Marry Me soon My babe or I will kill you",
   "In you, I've found the love of my life and my closest friend",
-  "My angry bird ,soo fraudu , nee ellana na sad hu ",
+  "chinni gundaloo,nuvv anthey na premaloo ",
   "I choose you. And I'll choose you over and over. Without pause, without doubt, in a heartbeat. I'll keep choosing you",
   "I love you not only for what you are, but for what I am when I am with you",
   "You come like autumn and everytime I fall for you ",
