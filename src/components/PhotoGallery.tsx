@@ -9,13 +9,13 @@ export default function PhotoGallery() {
   const photos = [
     {
       id: 1,
-      image: "/qnland-1.jpeg",
-      caption: "Our First Date ",
+      image: "/date.jpeg",
+      caption: "Our baby ",
     },
     {
       id: 2,
       image: "/laugh.jpeg",
-      caption: "Burst Out in Laughter",
+      caption: "Comfy baby",
     },
     {
       id: 3,
@@ -24,18 +24,23 @@ export default function PhotoGallery() {
     },
     {
       id: 4,
-      image: "/temp.jpeg",
-      caption: "Temple Date",
+      image: "/longdist.jpeg",
+      caption: "Bhai Date",
     },
     {
       id: 5,
-      image: "/longdist.jpeg",
-      caption: "Long Distanced",
+      image: "/qnland-1.jpeg",
+      caption: "Church Date",
     },
     {
       id: 6,
-      image: "/date.jpeg",
-      caption: " Date",
+      image: "/temp.jpeg",
+      caption: "our lil edit🏵️😜",
+    },
+    {
+      id: 7,
+      image: "/ride.jpeg",
+      caption: "our Family pic",
     },
   ];
 
