@@ -4,7 +4,7 @@ import confetti from 'canvas-confetti';
 import { Heart } from 'lucide-react';
 
 export default function CountdownSection() {
-  const targetDate = new Date('2025-11-08T00:00:00').getTime();
+  const targetDate = new Date('2026-04-19T00:00:00').getTime();
   const [timeLeft, setTimeLeft] = useState({
     days: 0,
     hours: 0,
