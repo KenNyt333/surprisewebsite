@@ -28,12 +28,12 @@ export default function PhotoGallery() {
       caption: "Temple Date",
     },
     {
-      id: 4,
+      id: 5,
       image: "/longdist.jpg",
       caption: "Long Distanced",
     },
     {
-      id: 4,
+      id: 6,
       image: "/date.jpg",
       caption: " Date",
     },
