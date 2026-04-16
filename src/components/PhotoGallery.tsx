@@ -9,32 +9,32 @@ export default function PhotoGallery() {
   const photos = [
     {
       id: 1,
-      image: "/qnland-1.jpg",
+      image: "/qnland-1.jpeg",
       caption: "Our First Date ",
     },
     {
       id: 2,
-      image: "/laugh.jpg",
+      image: "/laugh.jpeg",
       caption: "Burst Out in Laughter",
     },
     {
       id: 3,
-      image: "/perfect.jpg",
+      image: "/perfect.jpeg",
       caption: "Perfect Moments in Time",
     },
     {
       id: 4,
-      image: "/temp.jpg",
+      image: "/temp.jpeg",
       caption: "Temple Date",
     },
     {
       id: 5,
-      image: "/longdist.jpg",
+      image: "/longdist.jpeg",
       caption: "Long Distanced",
     },
     {
       id: 6,
-      image: "/date.jpg",
+      image: "/date.jpeg",
       caption: " Date",
     },
   ];
