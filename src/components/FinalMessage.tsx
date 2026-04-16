@@ -64,9 +64,9 @@ export default function FinalMessage() {
           viewport={{ once: true }}
           className="text-5xl md:text-8xl font-bold mb-8 bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500 bg-clip-text text-transparent leading-tight"
         >
-          I Love You More
+          I Love You More nd More
           <br />
-          Every Day
+          Each Day Passing
         </motion.h2>
 
         <motion.p
