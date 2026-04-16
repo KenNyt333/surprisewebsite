@@ -113,7 +113,7 @@ export default function CountdownSection() {
             transition={{ type: "spring", stiffness: 100 }}
             className="text-4xl md:text-6xl font-bold text-pink-500 mb-8"
           >
-            🎉 Happy Birthday Beautiful! 🎉
+            🎉 Happy Birthday Bangaram! 🎉
           </motion.div>
         ) : (
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 mb-12">
