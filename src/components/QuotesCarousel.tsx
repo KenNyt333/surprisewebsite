@@ -4,7 +4,7 @@ import { Heart, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const quotes = [
   "She said - When the sun come out , the stars Disappear (she meant herself)",
-  "Magic of more than 12 , destined to be together",
+  "Magic of more than 12 years , destined to be together",
   "I will steal your love , your heart and your soul and finally your wp stickers too ",
   "Marry Me soon My babe or I will kill you",
   "In you, I've found the love of my life and my closest friend",
