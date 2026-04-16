@@ -58,7 +58,7 @@ export default function HeroSection() {
               sequence={[
                 'Happy Birthday',
                 1000,
-                'Happy Birthday Varshu Kutty ',
+                'Happy Birthday Praloshika Bangaram ',
               ]}
               speed={30}
               cursor={false}
